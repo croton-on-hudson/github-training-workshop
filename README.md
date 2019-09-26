@@ -1,0 +1,3 @@
+Welcome...
+
+Click into one of the folders above and try dragging-and-dropping some files.
