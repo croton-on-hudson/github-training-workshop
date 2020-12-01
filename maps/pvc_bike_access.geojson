@@ -1,0 +1,286 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88269186019896, 41.20846070881358],
+          [-73.88000965118408, 41.206329800079416],
+          [-73.87861490249634, 41.20603921623881],
+          [-73.87837886810303, 41.20584549296149]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88273477554321, 41.20844456582647],
+          [-73.88511657714844, 41.20469928516862]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88511657714844, 41.20465892537338],
+          [-73.8824450969696, 41.2027377703269]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88450503349304, 41.20427147007247],
+          [-73.88389348983765, 41.20507059411693],
+          [-73.88302445411682, 41.20473157298689],
+          [-73.88373255729675, 41.20366606657211]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.87840032577513, 41.20581320569285],
+          [-73.88246655464172, 41.20274584252491]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88217687606812, 41.20803291830948],
+          [-73.88261675834656, 41.20745983608125],
+          [-73.88261675834656, 41.20735490498877],
+          [-73.88322830200195, 41.20652352192289]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#55aaff",
+        "stroke-width": "4px",
+        "title": "Bicycles allowed on running track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8832014799118, 41.20653159365392],
+          [-73.8831102848053, 41.20649527085646],
+          [-73.8836145401001, 41.205998857269975],
+          [-73.88262212276459, 41.205546835118625],
+          [-73.88238072395325, 41.205595266212775],
+          [-73.88193011283875, 41.20611186231992],
+          [-73.88197839260101, 41.20632576420157],
+          [-73.88217687606812, 41.20647105564693],
+          [-73.88277232646941, 41.20672127904657],
+          [-73.8828957080841, 41.20670109977562],
+          [-73.8830941915512, 41.20652352192289]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#55aaff",
+        "stroke-width": "4px",
+        "title": "Ramp up/down to/from High School running track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88239681720734, 41.20558315844261],
+          [-73.8824075460434, 41.20549033213015],
+          [-73.88264089822769, 41.205405577555965],
+          [-73.88290911912918, 41.205411631457764],
+          [-73.88296812772751, 41.20532082287199]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "Bicycle parking at back of PVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88299763202667, 41.2053531103836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "Bicycle parking in front of PVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88320282101631, 41.20438548710494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#aa5555",
+        "stroke-width": "10px",
+        "title": "A raised crosswalk with curb extensions."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88439506292343, 41.20611690718368],
+          [-73.88426497578621, 41.20606544955519]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.880894780159, 41.20699168067686],
+          [-73.8811469078064, 41.20680199606813],
+          [-73.88131320476532, 41.2064831632528],
+          [-73.88236999511719, 41.20513516937113],
+          [-73.8823351264, 41.20510086377529],
+          [-73.88278305530548, 41.20443492805729],
+          [-73.88282597064972, 41.20441071208529],
+          [-73.88298690319061, 41.20443492805729],
+          [-73.88301908969879, 41.204457126023755],
+          [-73.88316661119461, 41.204503539929256]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8813266158104, 41.206461974941035],
+          [-73.88128906488419, 41.206433723848015],
+          [-73.88123005628586, 41.2064730735814]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88174302875996, 41.20569465074164],
+          [-73.8818684220314, 41.20577234209561]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88279378414154, 41.20417258788341],
+          [-73.88293594121933, 41.20442483807005]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88280719518661, 41.204178641899304],
+          [-73.88335436582565, 41.204225056002336]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8823351264, 41.20509682782165],
+          [-73.88231098651886, 41.20503073904544],
+          [-73.88233579695225, 41.204979785057915],
+          [-73.88232439756393, 41.20495001983891],
+          [-73.88229623436928, 41.20493236249921]
+        ]
+      }
+    }
+  ]
+}
